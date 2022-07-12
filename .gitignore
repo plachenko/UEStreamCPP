@@ -1,4 +1,6 @@
 Binaries
+/Build/*
+!/Build/.gitkeep
 DerivedDataCache
 Intermediate
 Saved
