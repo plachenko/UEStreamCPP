@@ -1,4 +1,5 @@
 Binaries
+Plugins
 /Build/*
 !/Build/.gitkeep
 DerivedDataCache
